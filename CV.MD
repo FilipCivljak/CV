@@ -1,6 +1,6 @@
  # **Filip Čivljak**
 
-Address : Dositejeva 11, 1080 Zemun
+
 
 Place and date of birth: Savski Venac, Beograd, Srbija , 03/08/1980
 
